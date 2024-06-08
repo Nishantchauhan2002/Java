@@ -63,7 +63,7 @@ public class Lecture1 {
 	
 	public static void main(String[] args) {
 		Lecture1 l1=new Lecture1();
-//		node root=l1.construct(null, false);
-//		System.out.println(root.data);
+		node root=l1.construct(null, false);
+		System.out.println(root.data);
 	}
 }
